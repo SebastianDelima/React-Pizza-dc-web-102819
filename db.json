@@ -1,54 +1,64 @@
-{"pizzas":
-  [
-    { "id": 1,
-      "topping": "Plain",
-      "size": "Small",
-      "vegetarian": true
-    },
-    { "id": 2,
-      "topping": "Pepperoni",
-      "size": "Small",
-      "vegetarian": false
-    },
-    { "id": 3,
-      "topping": "Mushroom",
-      "size": "Small",
-      "vegetarian": true
-    },
-    { "id": 4,
-      "topping": "Sausage",
-      "size": "Small",
-      "vegetarian": false
-    },
-    { "id": 5,
-      "topping": "Bacon",
+{
+  "pizzas": [
+    {
+      "id": 1,
+      "topping": "Plain vjvjv cCACV",
       "size": "Medium",
       "vegetarian": false
     },
-    { "id": 6,
-      "topping": "Spinach",
-      "size": "Medium",
+    {
+      "id": 2,
+      "topping": "Pepperoni rwfrw hfejws",
+      "size": "Large",
       "vegetarian": true
     },
-    { "id": 7,
+    {
+      "id": 3,
+      "topping": "Mushroom with venom",
+      "size": "Large",
+      "vegetarian": "false"
+    },
+    {
+      "id": 4,
+      "topping": "Sausage with plastic",
+      "size": "Small",
+      "vegetarian": "false"
+    },
+    {
+      "id": 5,
+      "topping": "Bacon with beef",
+      "size": "Medium",
+      "vegetarian": "false"
+    },
+    {
+      "id": 6,
+      "topping": "Spinach with tequilaa",
+      "size": "Medium",
+      "vegetarian": "true"
+    },
+    {
+      "id": 7,
       "topping": "Black Olive",
       "size": "Medium",
-      "vegetarian": true
+      "vegetarian": "true"
     },
-    { "id": 8,
-      "topping": "Pineapple",
-      "size": "Medium",
-      "vegetarian": true
+    {
+      "id": 8,
+      "topping": "Pineapple with a lot of broken glass",
+      "size": "Large",
+      "vegetarian": "false"
     },
-    { "id": 9,
+    {
+      "id": 9,
       "topping": "Salami",
       "size": "Large",
       "vegetarian": false
     },
-    { "id": 10,
-      "topping": "Chicken",
-      "size": "Large",
-      "vegetarian": true
+    {
+      "id": 10,
+      "topping": "Chicken with bullets",
+      "size": "Medium",
+      "vegetarian": "false"
     }
   ]
 }
