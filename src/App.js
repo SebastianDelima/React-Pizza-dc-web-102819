@@ -64,7 +64,7 @@ class App extends Component {
         topping: e.currentTarget.dataset.toping,
         size:  e.currentTarget.dataset.size,
         vegetarian: veggies
-      })
+      }))
     }
     fetch(`http://127.0.0.1:3000/pizzas/${id}`, objectConfig)
     .then(res => res.json())
